@@ -1,6 +1,6 @@
 - Hi  👋 I’m Tatiana 
 -  📍 Currently I lived in Uruguay
-- 📚  I'm currently a student at Jovenes a Programar (Ceibal)
+- 📚  I'm a student of Jovenes a Programar (Ceibal)
 - 🌱 I’m learning JavaScript, HTML and CSS
 
 
